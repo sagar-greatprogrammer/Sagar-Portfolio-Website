@@ -821,7 +821,8 @@ user is not using shrink to fit then we expand the header.
                 <h1 class='person-title'>Sagar Hatagale</h1>
                 <!-- About Bio -->
                 <p class='bio-text'>
-                  A Software Developer(Dot Net) with 2+ years of experience inCloudLex Inc. who specializes in developing end to end WebApplications, Desktop Applications and Web API(REST) usingtechnologies like ASP .NET (MVC 5), MySQL 5, Microsoft SQL2018, Microsoft Azure, as well as Front End Technologies includingTypeScript, JavaScript, Angular 4, 7. C# (OOPs) Being the primarytechnology of my expertise, grasping new technology has neverbeen a challenge for me.
+                  A Software Engineer with 2+ years of IT industry experience who specializes in developing end to end Web Application having great exposure of
+technology including C#, SQL, .NET, Angular.
                 </p>
                 <ul class='info-list'>
                   <!-- About info -->
@@ -911,10 +912,9 @@ user is not using shrink to fit then we expand the header.
                 <div class='wpb_wrapper'>
                   <div class='wow fadeInUp' data-wow-delay='0s'>
                     <div class='service-box style-2 '>
-                      <!-- Service Icon --><i class='lnr lnr-cog'/>
                       <div class='service-box-content'>
                         <!-- Service Heading --><h4><b>Custom Software Development</b></h4>
-                        <!-- Service Description --><p>Aliquam commodo arcu vel ante volutpat tempus. Praesent pulvinar velit at posuere mollis. Quisque libero sapien.</p>
+                        <!-- Service Description --><p>Build end to end Professional software development</p>
                       </div>
                     </div>
                   </div>
@@ -926,11 +926,10 @@ user is not using shrink to fit then we expand the header.
                 <div class='wpb_wrapper'>
                   <div class='wow fadeInUp' data-wow-delay='0.2s'>
                     <div class='service-box style-2 '>
-                      <!-- Service Icon --><i class='lnr lnr-star'/>
                       <div class='service-box-content'>
                         <!-- Service Heading -->
                         <h4><b>Mobile Application Development</b></h4>
-                        <!-- Service Description --><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tempus cursus lectus vel pellentesque. Etiam tincidunt.</p>
+                        <!-- Service Description --><p>Build end to end mobile application development</p>
                       </div>
                     </div>
                   </div>
@@ -942,10 +941,9 @@ user is not using shrink to fit then we expand the header.
                 <div class='wpb_wrapper'>
                   <div class='wow fadeInUp' data-wow-delay='0.3s'>
                     <div class='service-box style-2 '>
-                      <!-- Icon --><i class='lnr lnr-laptop-phone'/>
                       <div class='service-box-content'>
                         <!-- Service Heading --><h4><b>Web Application Development</b></h4>
-                        <!-- Service Description --><p>Pellentesque ultricies ligula a libero porta, ut venenatis orci molestie. Vivamus vitae aliquet tellus, sed mollis libero.</p>
+                        <!-- Service Description --><p>Build end to end web application development</p>
                       </div>
                     </div>
                   </div>
@@ -961,10 +959,9 @@ user is not using shrink to fit then we expand the header.
                 <div class='wpb_wrapper'>
                   <div class='wow fadeInUp' data-wow-delay='0.4s'>
                     <div class='service-box style-2 '>
-                      <!-- Icon --><i class='lnr lnr-rocket'/>
                       <div class='service-box-content'>
                         <!-- Service Heading --><h4><b>DevOps Automation</b></h4>
-                        <!-- Service Description --><p>Duis ut ultricies nisi. Nulla risus odio, dictum vitae purus malesuada, cursus convallis justo. Sed a mi massa dolor.</p>
+                        <!-- Service Description --><p>Continous Integration | Continous Development</p>
                       </div>
                     </div>
                   </div>
@@ -976,10 +973,9 @@ user is not using shrink to fit then we expand the header.
                 <div class='wpb_wrapper'>
                   <div class='wow fadeInUp' data-wow-delay='0.5s'>
                     <div class='service-box style-2 '>
-                      <!-- Icon --><i class='lnr lnr-eye'/>
                       <div class='service-box-content'>
                         <!-- Service Heading --><h4><b>Cloud Consulting</b></h4>
-                        <!-- Service Description --><p>Vivamus quis tempor purus, a eleifend purus. Ut sodales vel tellus vel vulputate. Fusce rhoncus semper magna.</p>
+                        <!-- Service Description --><p>Microsoft Azure | Virtual Machine | Cloud Services</p>
                       </div>
                     </div>
                   </div>
@@ -991,10 +987,9 @@ user is not using shrink to fit then we expand the header.
                 <div class='wpb_wrapper'>
                   <div class='wow fadeInUp' data-wow-delay='0.6s'>
                     <div class='service-box style-2 '>
-                      <!-- Icon --><i class='lnr lnr-checkmark-circle'/>
                       <div class='service-box-content'>
                         <!-- Service Heading --><h4><b>Quality Assurance</b></h4>
-                        <!-- Service Description --><p>Suspendisse convallis sem eu ligula porta gravida. Suspendisse potenti. Lorem ipsum dolor sit amet, duis omis unde elit.</p>
+                        <!-- Service Description --><p>QC | QA | Automation</p>
                       </div>
                     </div>
                   </div>
